@@ -1,6 +1,6 @@
 # HitSneaker - Responsive Sneaker E-Commerce Concept
 
-A front-end web project showcasing a responsive e-commerce catalog for sneakers.
+A MOCK-UP front-end web project showcasing a responsive e-commerce catalog for sneakers.
 
 ## UI Preview
 ![Preview](preview.png)
